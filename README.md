@@ -1,6 +1,6 @@
-# Sportsy Test Automation Framework
+# Sporty Test Automation Framework
 
-This workspace contains the resolution of a Sportsy take home assignment, which  consists of 
+This workspace contains the resolution of a Sporty take home assignment, which  consists of 
    - `part_A`: manual QA: 
        - **test plan** in file `Single bet placement Test Plan.md`
        - **Test ran** and **bug report** in file `Bug report.md`
