@@ -1,0 +1,7 @@
+pytest
+selenium
+requests
+webdriver-manager
+pytest-html
+pytest-assume
+ruff
