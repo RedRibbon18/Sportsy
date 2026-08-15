@@ -110,7 +110,7 @@
 
 ## Exploratory testing:
 
-- Low: Date filter is not working properly on  boundaries (shows result for the day after. Look for matches from 11 to 13/08/2026 shows a match that is on 14/08/2026)
+- Medium: Date filter is not working properly on  boundaries (shows result for the day after. Look for matches from 11 to 13/08/2026 shows a match that is on 14/08/2026)
 - To ask PM: Date filter: I don't understand what the "all" vs "Custom" option should be doing.
-- Low: Odds filter is just taking into account `1` odds for max, and `X` odds for min. 
+- Medium: Odds filter is just taking into account `1` odds for max, and `X` odds for min. 
 - Low: "Showing XX matches" is not being updated when filtering
