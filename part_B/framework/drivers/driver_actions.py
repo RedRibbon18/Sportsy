@@ -101,6 +101,10 @@ def send_keys(driver, locator, text, log_id, timeout: int = 10):
 
 
 class DriverExplicitWaitActions():
+    """
+    Class to use explicit waits in selenium web driver, also includes
+    taking screenshots of tiemout exceptions, saving files with "log_id" prefix
+    """
     def __init__(self, driver, log_id):
         self.driver = driver
         self.log_id = log_id
